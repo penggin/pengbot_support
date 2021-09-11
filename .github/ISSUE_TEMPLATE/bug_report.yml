@@ -19,9 +19,6 @@ body:
     attributes:
       label: 어떤 버그가 발생하나요?
       description: 발생하는 버그에 대해 자세히 적어주세요.
-      value: |
-        버그 재현 방법
-        1.
     validations:
       required: true
   - type: textarea
