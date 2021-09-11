@@ -1,6 +1,6 @@
 name: 버그 신고
 description: 봇에 대한 버그를 신고합니다.
-title: [버그] (해당 버그에 대한 제목을 적어주세요)
+title: :"[버그] (해당 버그에 대한 제목을 적어주세요)"
 body:
   - type: markdown
     attributes:
